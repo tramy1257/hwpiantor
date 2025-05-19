@@ -13,6 +13,19 @@ I made this keyboard to tryout the Piantor/Cantor layout with parts I already ha
 The goal is to show off as much DIY elements as possible. Eventually, the back cover will be replaced with a clear acrylic cover to show off the wiring.
 
 ## BOM
+* 42 x MX Switches
+* 42 x diodes
+* 5 x 6mm M2 standoffs
+* 10 x 5mm M2 button head screws*
+* 4 x M2 nuts
+* 4 x 6mm M2 button head screws**
+* 2x Raspberry Pi Pico or Pico 2
+* 2 x TRRS sockets
+* Rubber feets (Optional)
+
+**Socket head screws work as well. They have higher heads, which will stick out of the bottom of the case. But if you're using rubber feets, it should not be a problem.*
+
+***Any screw length from 6mm to 12mm should work. Button head screws work fine here.*
 
 ## Building
 
