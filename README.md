@@ -24,19 +24,19 @@ The goal is to show off as much DIY elements as possible. Eventually, the back c
 ### II. Preparing the plate for soldering
 Screw the **6mm standoffs** to the underside of the plate with **5mm M2 screws**
 
-<img src="/img/plate-screw.jpg" alt="drawing" width="400"/>
+<img src="/img/plate-screw.png" alt="drawing" width="400"/>
 
 Add the **M2 nuts** to the underside of the plate for securing the Pi Pico
 
-<img src="/img/plate-nuts.jpg" alt="drawing" width="400"/>
+<img src="/img/plate-nuts.png" alt="drawing" width="400"/>
 
 Solder the pin headrs to the Pi Pico. Then screw the Pi Pico to the plate with **6mm M2 screws** (Any screw length from 6mm to 12mm should work). The pin headers legs should stick through the 2 tracks on the plate
 
-<img src="/img/pico-screw.jpg" alt="drawing" width="400"/>
+<img src="/img/pico-screw.png" alt="drawing" width="400"/>
 
 Glue the TRRS socket to the plate.
 
-<img src="/img/trrs.jpg" alt="drawing" width="400"/>
+<img src="/img/trrs.png" alt="drawing" width="400"/>
 
 
 ### III. Soldering the switches and the Pico
