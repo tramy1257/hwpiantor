@@ -30,7 +30,7 @@ The goal is to show off as much DIY elements as possible. Eventually, the back c
 ## Building
 
 ### I. 3D Printing
-[Printing the case and plate](./printing/printing-notes.md)
+[Printing the case and plate](./printing/README.md)
 
 [Printed keycaps by Joe Scotto](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoCaps/Scooped/MX)
 
