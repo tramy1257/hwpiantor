@@ -1,0 +1,265 @@
+{
+    "id": "01JSTMTZ2ANZXHCSM1Y21MYA3W",
+    "name": "PIANTORHWL",
+    "manufacturer": "",
+    "description": "",
+    "tags": [],
+    "controller": "pi-pico",
+    "keyboardType": "splitSerial",
+    "wiringMethod": "matrix",
+    "diodeDirection": "COL2ROW",
+    "rows": 4,
+    "cols": 6,
+    "pins": 0,
+    "rowPins": [
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "colPins": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+    ],
+    "directPins": [],
+    "encoders": [],
+    "layouts": [],
+    "keys": [
+        {
+            "x": 0,
+            "y": 0,
+            "idx": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "idx": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "idx": 2
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "idx": 3
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "idx": 4
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "idx": 5
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "idx": 6
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "idx": 7
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "idx": 8
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "idx": 9
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "idx": 10
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "idx": 11
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "idx": 12
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "idx": 13
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "idx": 14
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "idx": 15
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "idx": 16
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "idx": 17
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "idx": 18
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "idx": 19
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "idx": 20
+        }
+    ],
+    "keymap": [
+        [
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.N5",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS"
+        ]
+    ],
+    "encoderKeymap": [
+        []
+    ],
+    "layers": [
+        {
+            "name": ""
+        }
+    ],
+    "split": true,
+    "splitPinA": "0",
+    "splitPinB": "1",
+    "splitSide": "label",
+    "vbusPin": "VBUS_SENSE",
+    "splitUsePio": true,
+    "splitFlip": false,
+    "splitUartFlip": true,
+    "coordMap": [
+        [
+            "000",
+            "001",
+            "002",
+            "003",
+            "004",
+            "005"
+        ],
+        [
+            "006",
+            "007",
+            "008",
+            "009",
+            "010",
+            "011"
+        ],
+        [
+            "012",
+            "013",
+            "014",
+            "015",
+            "016",
+            "017"
+        ],
+        [
+            "spc",
+            "spc",
+            "spc",
+            "021",
+            "022",
+            "023"
+        ]
+    ],
+    "pinPrefix": "gp",
+    "coordMapSetup": true,
+    "rgbPin": "",
+    "rgbNumLeds": 0,
+    "rgbOptions": {
+        "animationMode": 0,
+        "hueDefault": 0,
+        "satDefault": 255,
+        "valDefault": 255,
+        "animationSpeed": 1,
+        "breatheCenter": 1,
+        "knightEffectLength": 3
+    },
+    "kbFeatures": [
+        "basic",
+        "serial",
+        "oneshot",
+        "tapdance",
+        "holdtap",
+        "mousekeys",
+        "combos",
+        "macros"
+    ],
+    "flashingMode": "automatic",
+    "lastEdited": "2025-04-26 22:57"
+}

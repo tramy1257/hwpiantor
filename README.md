@@ -2,8 +2,8 @@
 
 _3D Printed, Handwired, Piantor Style Keyboard_
 <p float="left">
-  <img src="/img/main-img.jpg" alt="drawing" width="500"/>
-  <img src="/img/wiring.jpg" alt="drawing" width="500"/>
+  <img src="/img/main-img.jpg" alt="drawing" width="400"/>
+  <img src="/img/wiring.jpg" alt="drawing" width="400"/>
 </p>
 
 
